@@ -12,7 +12,7 @@ A lightweight Bash script to scan a list of domains or IPs using `nmap`.
 ├── domains            # Input file: list of IPs or domains
 └── output/            # All scan results go here
     ├── example.com/
-    │   └── 2025- Example Workflow07-13_14-00-00/
+    │   └── 2025-07-13_14-00-00/
     │       ├── results    # nmap stdout
     │       └── errors     # nmap stderr
 ```
